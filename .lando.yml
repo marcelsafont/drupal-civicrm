@@ -1,0 +1,4 @@
+name: drupal-civicrm
+recipe: drupal7
+config:
+  webroot: .
